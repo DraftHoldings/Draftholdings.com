@@ -70,7 +70,7 @@ html,body{
 }
 .container{
     width: 850px;
-    
+    align-self: center;
     background:#111;
     padding: 20px 30px;
     border: 1px solid #444;
