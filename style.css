@@ -43,6 +43,7 @@ html,body{
     width: 850px;
     height: 80px;
     border: none;
+    align-self: center;
     outline: none;
     padding-left: 25px;
     padding-right: 25px;
