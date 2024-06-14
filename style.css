@@ -29,7 +29,7 @@ html,body{
         gap: 20px;
 }
 .contact-left-title h2{
-    margin-top: 280px;
+    margin-top: 500px;
     align-self: center;
     padding: 50px;
     font-size: 60px;
@@ -126,7 +126,7 @@ form header{
 }
 .contact-right img{
     margin-top: auto;
-    width: 60%;
+    width: 80%;
     align-items: center;
     
 }
