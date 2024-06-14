@@ -88,7 +88,7 @@ display: none;
     color: #444;
     padding: 10px;
     float: right;
-    transition: all 0.2 ease;
+    transition: all 0.8 ease;
 }
 input:not(:checked) ~ label:hover,
 input:not(:checked) ~ label:hover ~ label{
@@ -109,7 +109,7 @@ form header{
     font-weight: 500;
     margin: 5px 0 20px 0;
     text-align: center;
-    transition: all 0.2s ease;
+    transition: all 0.8s ease;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
