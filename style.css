@@ -29,7 +29,7 @@ html,body{
         gap: 20px;
 }
 .contact-left-title h2{
-    margin-top: 500px;
+    margin-top: 280px;
     align-self: center;
     padding: 50px;
     font-size: 60px;
@@ -51,7 +51,6 @@ html,body{
     font-size: 20px;
     color: #666;
     border-radius: 20px;
-    flex: column;
     
 }
 .contact-left textarea{
@@ -127,10 +126,31 @@ form header{
 }
 .contact-right img{
     margin-top: auto;
-    width: 80%;
+    width: 60%;
     align-items: center;
     
 }
+footer{
+    background-color:#222;
+    position: relative;
+ 
+    margin-top: 100%;
+    
+}
+.footerbottom{
+    background-color:#111 ;
+    width: 1000px;
+    padding: 20px;
+    text-align: center;
+}
+.footerbottom p{
+    color: white;
+    opacity: 0.7;
+}
+.designer{
+    opacity: 0.1;
+}
+
 @media (max-width:800px) {
     .contact-inputs{
         width: 80vw;
